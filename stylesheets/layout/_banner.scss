@@ -1,0 +1,11 @@
+.banner {
+    height: 545px;
+    background-image: url(../../images/home_bg.jpg);
+    background-position: bottom center;
+    background-size: cover;
+}
+@media (min-width: 992px) {
+    .banner {
+        height: 627px;
+    }
+}
